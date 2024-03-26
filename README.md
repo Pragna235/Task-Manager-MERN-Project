@@ -16,3 +16,7 @@
 
 *     https://headlessui.com/
 *     npm i @headlessui/react @reduxjs/toolkit clsx moment react-icons react-redux react-router-dom recharts sonner
+
+* Construct the `directory hierarchy structure`
+* Make changes in the `index.css` and other `App.jsx`
+*     npm run dev
