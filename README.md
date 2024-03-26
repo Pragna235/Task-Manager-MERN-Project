@@ -2,6 +2,8 @@
 
 ## Playbook
 
+-----------------------------Part - 1 ---------------------------------------------------------------------------
+
 * Open the `VSCode` and create a `react-app` in the `client` folder
 *     npm vite@latest .
 * Make changes in the `vite.config.js`
@@ -20,3 +22,7 @@
 * Construct the `directory hierarchy structure`
 * Make changes in the `index.css` and other `App.jsx`
 *     npm run dev
+* Paste the below in `Login.jsx` in `return()`
+*     <h1 className="text-3xl font-bold underline">
+      Hello world!
+      </h1>
