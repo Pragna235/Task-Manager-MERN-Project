@@ -13,3 +13,6 @@
       "./src/**/*.{js,ts,jsx,tsx}",
       ],
 * Paste the above command in the `tailwind.config.js`
+
+*     https://headlessui.com/
+*     npm i @headlessui/react @reduxjs/toolkit clsx moment react-icons react-redux react-router-dom recharts sonner
