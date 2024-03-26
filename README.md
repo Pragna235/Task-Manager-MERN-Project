@@ -6,3 +6,4 @@
 *     npm vite@latest .
 * Make changes in the `vite.config.js`
 *     https://tailwindcss.com/docs/guides/vite
+*     npm install -D tailwindcss postcss autoprefixer
